@@ -4,7 +4,7 @@ Tenho grande interesse em Desenvolvimento web Front-end e Back-end,
 tenho certa experiência pratica com as principais tecnologias de 
 Densenvolvimento Web como **HTML, CSS, javaScript** ,
 no momento estou em busca de aprimorar meus conhecimentos 
-com tecnologias de Back-end como **java** e seus Frameworks
+com tecnologias de Back-end como **java** e seus Frameworks 
 
 ## Tecnologias e Ferramentas
 
