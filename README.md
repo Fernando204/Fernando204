@@ -46,7 +46,7 @@ com tecnologias de Back-end como **java** e seus Frameworks
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando204&layout=compact&title_color=%2323fcca&text_color=FFFFFF&bg_color=001c16&border_color=%2323fcca" 
-    alt="Top Langs"
+    alt="Top Lans"
   />
 </div>
 
